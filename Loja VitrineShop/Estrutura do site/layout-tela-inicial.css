@@ -1,0 +1,24 @@
+.logo {
+    background: left / cover url('Imagens/icon_vitrineshop.png');
+  display: inline-flexbox;
+  height: 100px;
+  align-items: right;
+  justify-content: right;
+  font:
+    bold calc(1em + 2 * (100vw - 120px) / 100) 'Dancing Script',
+    fantasy;
+  color: #ff0083;
+  text-shadow: #000 2px 2px 0.2rem;
+}
+
+
+body {
+    background-color: rgb(229, 226, 233);
+    color: rgb(5, 5, 5);
+}
+
+.titulo {
+    font-size: 21px;
+    color: #fff;
+    background: blue;
+}
